@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Salih P
 - 👀 I’m interested in Web Develepment
-- 🌱 I’m currently Working with Python Django project
+
 - 💞️ I’m looking to collaborate on Django project
 - 📫 muhammedswalih034@gmail.com
 
